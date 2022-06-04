@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Reading list
+❤️Books:
+  - 01/6/2022
+    - Beginning Git and GitHub
+    - How to Study in College
+  
